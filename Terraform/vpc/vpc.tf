@@ -14,13 +14,19 @@ resource "aws_security_group" "demo_sg" {
   description = "Allow ssh inbound traffic"
  vpc_id = aws_vpc.dpw-vpc.id
   ingress {
-    description      = "ssh access to public"
+    description      = "ssh access"
     from_port        = 22
     to_port          = 22
     protocol         = "tcp"
     cidr_blocks      = ["0.0.0.0/0"]
   }
-
+   ingress {
+    description      = "jenkins master port access"
+    from_port        = 8080
+    to_port          = 8080
+    protocol         = "tcp"
+    cidr_blocks      = ["0.0.0.0/0"]
+  }
   egress {
     from_port        = 0
     to_port          = 0
