@@ -5,6 +5,8 @@
 
 1. [What is CI/CD?](#what-is-cicd)
 2. [What is the need for CI/CD?](#what-is-the-need-for-cicd)
+3. [Prequisites](#prerequisites-for-this-project)
+4. [Memory map](#memory-map)
 
 ## What is CI/CD?
 
