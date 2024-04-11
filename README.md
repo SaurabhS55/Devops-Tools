@@ -46,3 +46,29 @@ This process is slow and error-prone. Each manual step is a chance for mistakes.
 
 CI/CD allows the development team to iterate quickly, fix bugs faster, and deliver a more stable and reliable shopping cart application. 
 
+## Prerequisites for this project
+
+**You should know basics this:**
+
+1. **Docker**
+
+  Docker is a platform for building, deploying, and running applications in containers. You'll need to have Docker installed on your local machine or server.
+
+  - [Official Docker Documentation](https://docs.docker.com/)
+  - [Get Docker](https://docs.docker.com/get-docker/)
+
+2. **Git and GitHub**
+
+  Git is a distributed version control system, and GitHub is a web-based hosting service for Git repositories. You'll need a GitHub account and a local Git installation.
+
+  - [Official Git Documentation](https://git-scm.com/doc)
+  - [Download Git](https://git-scm.com/downloads)
+  - [GitHub](https://github.com/)
+
+3. **AWS EC2**
+
+  Amazon Elastic Compute Cloud (EC2) is a web service that provides secure, resizable compute capacity in the cloud. You'll need an AWS account and an EC2 instance to deploy and run your application.
+
+  - [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/index.html)
+  - [Create an AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
+  - [Launch an EC2 Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
