@@ -9,7 +9,7 @@
 ## What is CI/CD?
 
 <!-- add image cicd.png -->
-![](https://asset.cloudinary.com/duu0rz6oz/28064d44bc6c9abe36391e9f8a673d99.png)
+![](https://asset.cloudinary.com/duu0rz6oz/28064d44bc6c9abe36391e9f8a673d99)
 
 Continuous Integration and Continuous Delivery/Deployment (CI/CD) is a software development practice that automates the building, testing, and deployment of applications. It helps streamline the software release process, enabling developers to deliver code changes more frequently and reliably.
 
