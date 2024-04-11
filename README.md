@@ -48,7 +48,7 @@ CI/CD allows the development team to iterate quickly, fix bugs faster, and deliv
 
 ## Prerequisites for this project
 
-**You should know basics this:**
+**You should know basics of this:**
 
 1. **Docker**
 
@@ -72,3 +72,8 @@ CI/CD allows the development team to iterate quickly, fix bugs faster, and deliv
   - [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/index.html)
   - [Create an AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
   - [Launch an EC2 Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
+
+
+  ## Memory map:
+
+  ![](https://res.cloudinary.com/duu0rz6oz/image/upload/v1712836666/msakvv6rrjb8hacfixso.png)
