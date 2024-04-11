@@ -23,3 +23,13 @@
       src: /opt/apache-maven-3.9.2-bin.tar.gz
       dest: /opt 
       remote_src: yes
+
+  - name: install docker 
+    apt: 
+      name: docker.io 
+      state: present
+
+  - name: start docker services 
+    service: 
+      name: docker 
+      state: started

@@ -2,7 +2,7 @@ provider "aws" {
   region = "us-east-1"
 }
 resource "aws_instance" "demo-sg-server" {
-  ami = "ami-07d9b9ddc6cd8dd30"
+  ami = "ami-080e1f13689e07408"
   instance_type = "t2.micro"
   key_name = "dep"
 #   security_groups = [ "demo_sg" ]
